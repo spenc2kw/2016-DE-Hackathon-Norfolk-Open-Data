@@ -9,6 +9,7 @@ https://data.norfolk.gov/api/views/fnx3-y6rs/rows.json
 
 For reference:
 https://dev.socrata.com/
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 Open GIS Data
 http://data.orf.opendata.arcgis.com/
