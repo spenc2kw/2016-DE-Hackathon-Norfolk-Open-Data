@@ -1,10 +1,10 @@
-# 2016-DE-Hackathon-Norfolk-Open-Data
+Norfolk-Open-Data
 Links and information to City of Norfolk Open Data for DE Hackathon
 
 Socrata API data:
-App Tokens can be provided for the Socrata API datasets by request using my email below or sending a message to me on the hackdatahr slack channel.  A limited number of requests can be made without an app token, but they are subject to much lower throttling limits than request that do include one.
+App Tokens can be provided for the Socrata API datasets by request using my email below or sending a message to me on the codeforva.slack.com #hackforchange channel.  App Tokens are recommneded to maximize the number of requests returned.  
 
-eEPERMITS - All: This dataset contains all permit related transactions and actions from our new ePERMITS program. This includes permit open/closded permits and inspections associated with all permit requests as of July 1, 2016. This data gets updated once a day. CSV files can be downloaded from the files directory as well.
+EPERMITS - All: This dataset contains all permit related transactions and actions from our new ePERMITS program. This includes permit open/closded permits and inspections associated with all permit requests as of July 1, 2016. This data gets updated once a day. CSV files can be downloaded from the files directory as well.
 https://data.norfolk.gov/api/views/a2dw-8ht5/rows.json
 Dataset API documentation:
 https://dev.socrata.com/foundry/data.norfolk.gov/938w-ijmq
@@ -19,11 +19,11 @@ Closed Permits Only:  This is a filtered view of our Closed Permits from the Nor
 https://data.norfolk.gov/api/views/tudh-ajgg/rows.json
 
 
-Norfolk Cares Call Center Data:  This is a dataset containing the last 3 years of our Norfolk Cares Call Center (311) requests.  This data gets updated once a day. CSV files can be downloaded from the files directory as well.
+Norfolk Cares Call Center Data:  This is a dataset containing our Norfolk Cares Call Center (311) requests.  This data gets updated once a day. CSV files can be downloaded from the files directory as well.
 https://data.norfolk.gov/api/views/fnx3-y6rs/rows.json
 
 
-For reference:
+For API reference information:
 https://dev.socrata.com/
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -44,7 +44,7 @@ http://orfmaps.norfolk.gov/orfgis/rest/services/TITAN/TITAN_FDG_20140528/MapServ
 Kyle Spencer, GISP
 GIS  Applications Development Supervisor
 City of Norfolk
-City Manager's Office of Resilience
+IT/City Manager's Office of Resilience
 Communications & Technology
 757-434-2337 mobile
 
