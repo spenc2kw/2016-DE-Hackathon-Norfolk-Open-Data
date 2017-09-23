@@ -6,7 +6,9 @@ Socrata API data:
 App Tokens can be provided for the Socrata API datasets by request using my email below or sending a message to me on the codeforva.slack.com #hackforchange channel.  App Tokens are recommneded to maximize the number of requests returned.  
 
 EPERMITS - All: This dataset contains all permit related transactions and actions from our new ePERMITS program. This includes permit open/closded permits and inspections associated with all permit requests as of July 1, 2016. This data gets updated once a day. CSV files can be downloaded from the files directory as well.
-Dataset Landing Page: https://data.norfolk.gov/EPERMITS/EPERMITS-All/a2dw-8ht5
+
+Dataset Landing Page: 
+https://data.norfolk.gov/EPERMITS/EPERMITS-All/a2dw-8ht5
 Dataset End Points:
 https://data.norfolk.gov/resource/938w-ijmq.csv
 https://data.norfolk.gov/resource/EPERMITS-All.json
