@@ -1,5 +1,5 @@
 Norfolk-Open-Data
-Links and information to City of Norfolk Open Data for DE Hackathon
+Links and information to City of Norfolk Open Data.
 
 Socrata API data:
 App Tokens can be provided for the Socrata API datasets by request using my email below or sending a message to me on the codeforva.slack.com #hackforchange channel.  App Tokens are recommneded to maximize the number of requests returned.  
