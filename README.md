@@ -12,9 +12,9 @@ https://data.norfolk.gov/EPERMITS/EPERMITS-All/a2dw-8ht5
 
 Dataset End Points:
   
-    CSV: https://data.norfolk.gov/resource/938w-ijmq.csv
+        CSV: https://data.norfolk.gov/resource/938w-ijmq.csv
   
-    JSON: https://data.norfolk.gov/resource/EPERMITS-All.json
+        JSON: https://data.norfolk.gov/resource/EPERMITS-All.json
 
 Dataset API documentation:
 https://dev.socrata.com/foundry/data.norfolk.gov/938w-ijmq
