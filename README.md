@@ -21,11 +21,11 @@ https://data.norfolk.gov/api/views/tudh-ajgg/rows.json
 
 Code Enforcement-BasicGov All: This dataset contains all code enforcement related transactions and actions from our new Code Enforcement program. This includes open/closded code enforcement complaints, violoations, and inspections associated with all Code Enforcement issues October 3, 2016. This data gets updated once a day.
 
-CSV: https://data.norfolk.gov/resource/d28c-cvzd.csv
+  CSV: https://data.norfolk.gov/resource/d28c-cvzd.csv
 
-JSON: https://data.norfolk.gov/resource/d28c-cvzd.json
+  JSON: https://data.norfolk.gov/resource/d28c-cvzd.json
 
-API Docs: https://dev.socrata.com/foundry/data.norfolk.gov/d28c-cvzd
+  API Docs: https://dev.socrata.com/foundry/data.norfolk.gov/d28c-cvzd
 
 
 Norfolk Cares Call Center Data:  This is a dataset containing our Norfolk Cares Call Center (311) requests.  This data gets updated once a day. CSV files can be downloaded from the files directory as well.
